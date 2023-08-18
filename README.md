@@ -7,7 +7,7 @@ This application uses Python, Docker, DockerImage, Elastic Container Registry(EC
 •	Elastic Kubernetes Service(EKS) : To create nodes and deploy the application on kubernetes.
 
 
-Prerequisites:
+``Prerequisites:``
 •	AWS Account
 •	Install AWS CLI
 •	Install Python3
