@@ -6,6 +6,8 @@ This application uses Python, Docker, DockerImage, Elastic Container Registry(EC
 •	Elastic Container Registry(ECR) : To push the docker image to ECR which will store the image, and we can retrieve and use the DockerImage in secure and efficient manner.
 •	Elastic Kubernetes Service(EKS) : To create nodes and deploy the application on kubernetes.
 
+![image](https://github.com/Rekkha-Shri/CloudNativeMonitoringApplication/assets/136299028/8e6e90ac-3ec1-445e-b079-ee05c4b236e5)
+
 
 ``Prerequisites:``
 •	AWS Account
