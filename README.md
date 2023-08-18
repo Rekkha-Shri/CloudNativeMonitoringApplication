@@ -14,5 +14,5 @@ This application uses Python, Docker, DockerImage, Elastic Container Registry(EC
 •	Install Docker and Kubectl
 •	Install any Code editor, recommended VS-Code
 
-Please have a look in the wiki for more details about the project.
+Please have a look in the wiki using the below link for more details about the project.
 https://github.com/Rekkha-Shri/CloudNativeMonitoringApplication/wiki
