@@ -13,10 +13,15 @@ This application uses Python, Docker, DockerImage, Elastic Container Registry(EC
 
 
 ``Prerequisites:``
+
 •	AWS Account
+
 •	Install AWS CLI
+
 •	Install Python3
+
 •	Install Docker and Kubectl
+
 •	Install any Code editor, recommended VS-Code
 
 Please have a look in the wiki using the below link for more details about the project.
